@@ -1,58 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>RamBros</title>
+    <title>RamBros Blog</title>
     <link href="https://blog.rambros3d.com/feed.xml" rel="self" />
     <link href="https://blog.rambros3d.com" />
-    <updated>2025-04-24T15:38:01+05:30</updated>
+    <updated>2025-04-24T15:53:52+05:30</updated>
     <author>
         <name>Shreeram</name>
     </author>
     <id>https://blog.rambros3d.com</id>
 
-    <entry>
-        <title>Interested in Selling the Printed Models! The Commercial license</title>
-        <author>
-            <name>Shreeram</name>
-        </author>
-        <link href="https://blog.rambros3d.com/interested-in-selling-the-printed-models-the-commercial-license.html"/>
-        <id>https://blog.rambros3d.com/interested-in-selling-the-printed-models-the-commercial-license.html</id>
-            <category term="announcement"/>
-
-        <updated>2025-04-24T15:37:45+05:30</updated>
-            <summary>
-                <![CDATA[
-                    We’re happy that some makers and small businesses are interested in selling&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>We’re happy that some makers and small businesses are interested in selling Dragon Railway models. I would like to let you know that we have a <span class="bold">commercial license</span> for those who want to sell<span class="bold"> Prints of our models </span>while supporting future development.</p>
-<p><span class="bold">We first introduced the Commercial membership last year at a member's request.</span></p>
-<h3 id="h:License-details-" class="page-anchor">License details:</h3>
-<ul>
-<li><span class="bold">$100 Monthly Sales:</span> We kindly request you to get the commercial license once your sales from our models exceed <span class="bold">100 USD per month</span>. That way you can get started right away without the costs of upfront licensing.</li>
-<li><span class="bold">No pressure:</span> This is just a <span class="bold">gentle request</span> to those of you who want to add our collection to your 3D printing business. You will support the project's long-term growth with this license.</li>
-</ul>
-<h3 id="h:What-the-License-Covers-" class="page-anchor">What the License Covers:</h3>
-<p>The commercial license allows you to <span class="bold">sell physical prints</span> of our premium models. <span class="bold">Redistribution of the design files</span> is not allowed. The license is only for selling the <span class="bold">physical prints</span> of the models.</p>
-<h4 id="h:Open-Source-models-" class="page-anchor">Open Source models:</h4>
-<p>Open source models are freely available for <span class="bold">all purposes</span>, including commercial sales. If you're only selling prints of our open-source models, feel free to do so - no strings attached.</p>
-<p>However, if you'd like to contribute to the <span class="bold">long-term growth</span> and development of Dragon Railway, we kindly encourage you to consider getting the license.</p>
-<h4 id="h:To-the-sellers-and-print-farms-Add-our-models-to-your-shop-and-start-selling-the-prints-right-away" class="page-anchor">To the sellers and print farms, Add our models to your shop and start selling the prints right away</h4>
-<p> </p>
-<div class="template asset"  data-alt-text="" data-caption="" data-id="47570607">
-<figure class="image"><a href="https://buymeacoffee.com/rambros/membership" target="_blank" rel="noopener"><figure class="fit"><img loading="lazy"  src="https://i.kickstarter.com/assets/047/570/607/24aeb9de48f078c8b48a59d54feb5b02_original.jpg?fit=scale-down&amp;origin=ugc&amp;q=92&amp;v=1734112857&amp;width=700&amp;sig=kwmCb8DQ2tFu6BRoAcNefjiGuys2sqDRrZRktQpfPgU%3D" alt="" data-is-external-image="true"></figure></a></figure>
-</div>
-<p> </p>
-<h4 id="h:Note-" class="page-anchor">Note:</h4>
-<ul>
-<li>We are very flexible &amp; generous with the commercial license for those selling physical prints of our models</li>
-<li>Reselling the <span class="bold">exclusive files</span> is not allowed at any cost - We reserve the right to revoke access when this is violated</li>
-</ul>
-<p><em>Originally published on <a href="https://www.kickstarter.com/projects/rambros/dragon-railway-v2-3d-printed-model-train-set/posts/4255543" target="_blank" rel="noopener noreferrer">kickstarter.com</a></em></p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Jump Start Your PCB Adventure</title>
         <author>
@@ -345,6 +301,53 @@
 </ul>
 <p><em>Article originally published on <a href="https://oshwlab.com/article/ordering-boards-for-oshwlab-projects" target="_blank" rel="noopener noreferrer">oshwlab.com</a></em></p>
 </div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Interested in Selling the Printed Models! The Commercial license</title>
+        <author>
+            <name>Shreeram</name>
+        </author>
+        <link href="https://blog.rambros3d.com/interested-in-selling-the-printed-models-the-commercial-license.html"/>
+        <id>https://blog.rambros3d.com/interested-in-selling-the-printed-models-the-commercial-license.html</id>
+        <media:content url="https://blog.rambros3d.com/media/posts/6/memberships.png" medium="image" />
+            <category term="announcement"/>
+
+        <updated>2024-12-13T15:37:00+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.rambros3d.com/media/posts/6/memberships.png" alt="" />
+                    We’re happy that some makers and small businesses are interested in selling&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.rambros3d.com/media/posts/6/memberships.png" class="type:primaryImage" alt="" /></p>
+                <p>We’re happy that some makers and small businesses are interested in selling Dragon Railway models. I would like to let you know that we have a <span class="bold">commercial license</span> for those who want to sell<span class="bold"> Prints of our models </span>while supporting future development.</p>
+<p><span class="bold">We first introduced the Commercial membership last year at a member's request.</span></p>
+<h3 id="h:License-details-" class="page-anchor">License details:</h3>
+<ul>
+<li><strong><span class="bold">$100 Monthly Sales:</span></strong> We kindly request you to get the commercial license once your sales from our models exceed <span class="bold">100 USD per month</span>. That way you can get started right away without the costs of upfront licensing.</li>
+<li><strong><span class="bold">No pressure:</span></strong> This is just a <span class="bold">gentle request</span> to those of you who want to add our collection to your 3D printing business. You will support the project's long-term growth with this license.</li>
+</ul>
+<h3 id="h:What-the-License-Covers-" class="page-anchor">What the License Covers:</h3>
+<p>The commercial license allows you to <span class="bold">sell physical prints</span> of our premium models. <span class="bold">Redistribution of the design files</span> is not allowed. The license is only for selling the <span class="bold">physical prints</span> of the models.</p>
+<h4 id="h:Open-Source-models-" class="page-anchor">Open Source models:</h4>
+<p>Open source models are freely available for <span class="bold">all purposes</span>, including commercial sales. If you're only selling prints of our open-source models, feel free to do so - no strings attached.</p>
+<p>However, if you'd like to contribute to the <span class="bold">long-term growth</span> and development of Dragon Railway, we kindly encourage you to consider getting the license.</p>
+<h4 id="h:To-the-sellers-and-print-farms-Add-our-models-to-your-shop-and-start-selling-the-prints-right-away" class="page-anchor">To the sellers and print farms, Add our models to your shop and start selling the prints right away</h4>
+<p> </p>
+<div class="template asset"  data-alt-text="" data-caption="" data-id="47570607">
+<figure class="image"><a href="https://buymeacoffee.com/rambros/membership" target="_blank" rel="noopener"><figure class="fit"><img loading="lazy"  src="https://i.kickstarter.com/assets/047/570/607/24aeb9de48f078c8b48a59d54feb5b02_original.jpg?fit=scale-down&amp;origin=ugc&amp;q=92&amp;v=1734112857&amp;width=700&amp;sig=kwmCb8DQ2tFu6BRoAcNefjiGuys2sqDRrZRktQpfPgU%3D" alt="" data-is-external-image="true"></figure></a></figure>
+</div>
+<p> </p>
+<h4 id="h:Note-" class="page-anchor">Note:</h4>
+<ul>
+<li>We are very flexible &amp; generous with the commercial license for those selling physical prints of our models</li>
+<li>Reselling the <span class="bold">exclusive files</span> is not allowed at any cost - We reserve the right to revoke access when this is violated</li>
+</ul>
+<p><em>Originally published on <a href="https://www.kickstarter.com/projects/rambros/dragon-railway-v2-3d-printed-model-train-set/posts/4255543" target="_blank" rel="noopener noreferrer">kickstarter.com</a></em></p>
             ]]>
         </content>
     </entry>
