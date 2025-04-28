@@ -3,7 +3,7 @@
     <title>RamBros Blog</title>
     <link href="https://blog.rambros3d.com/feed.xml" rel="self" />
     <link href="https://blog.rambros3d.com" />
-    <updated>2025-04-26T23:47:05+05:30</updated>
+    <updated>2025-04-28T20:03:08+05:30</updated>
     <author>
         <name>Shreeram</name>
     </author>
@@ -14,8 +14,8 @@
         <author>
             <name>Shreeram</name>
         </author>
-        <link href="https://blog.rambros3d.com/jlc/"/>
-        <id>https://blog.rambros3d.com/jlc/</id>
+        <link href="https://blog.rambros3d.com/jlcpcb-jumpstart-pcb-adventure/"/>
+        <id>https://blog.rambros3d.com/jlcpcb-jumpstart-pcb-adventure/</id>
         <media:content url="https://blog.rambros3d.com/media/posts/2/Article-3-thumb.jpg" medium="image" />
             <category term="pcb"/>
             <category term="electronics"/>
@@ -705,6 +705,164 @@
 <p> </p>
 <p><em>Originally published on <a href="https://www.instructables.com/Creating-a-3D-Printed-Model-Railway-Open-Source-Pr/" target="_blank"  class="extlink extlink-icon-1"  rel="noopener noreferrer">instructables.com</a></em></p>
 </div>
+</div>
+</div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Dragon R1 - Easy to Build 3D Printed RC Car</title>
+        <author>
+            <name>Shreeram</name>
+        </author>
+        <link href="https://blog.rambros3d.com/dragon-r1-easy-to-build-3d-printed-rc-car/"/>
+        <id>https://blog.rambros3d.com/dragon-r1-easy-to-build-3d-printed-rc-car/</id>
+            <category term="scalemodel"/>
+            <category term="3dprinting"/>
+
+        <updated>2022-07-17T20:02:00+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Hey folks, I have been interested in 3D printed RC projects for&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="800" height="450" src="https://www.youtube-nocookie.com/embed/FiOJ_alnoYA" title="Dragon Racer1 RC car | Easy to assemble DIY | Open Differential" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://blog.rambros3d.com/media/posts/14/gallery/FAWPPBGL5JM5SZC.gif" data-size="600x338"><img loading="lazy" src="https://blog.rambros3d.com/media/posts/14/gallery/FAWPPBGL5JM5SZC.gif" alt=""></a></figure>
+<figure class="gallery__item"><a href="https://blog.rambros3d.com/media/posts/14/gallery/FSDHV7FL5MH63NI.gif" data-size="507x338"><img loading="lazy" src="https://blog.rambros3d.com/media/posts/14/gallery/FSDHV7FL5MH63NI.gif" alt=""></a></figure>
+</div></div>
+<p>Hey folks,</p>
+<p>I have been interested in 3D printed RC projects for a while now. Over the past year I have been designing and 3D printing scale model parts. So I decided to make an <strong>RC racing car</strong> inspired by concept cars. These are the features which liked to incorporate in this design;</p>
+<ul>
+<li>Maximum 3D printed parts</li>
+<li>Easy to source hardware</li>
+<li>Simple Assembly</li>
+<li>Easy maintenance and battery access</li>
+<li>Dual wishbone suspension</li>
+<li>Open differential</li>
+<li>Low noise drive (using Blheli ESC)</li>
+<li>Printable with a 200mm size printer</li>
+</ul>
+<p>If you want to add some more cool features, Go ahead; The whole project is Open Source.</p>
+<h1 class="align-center">Supplies</h1>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://blog.rambros3d.com/media/posts/14/gallery/F0CKQASL5GRATF8.jpg" data-size="1080x1080"><img loading="lazy" src="https://blog.rambros3d.com/media/posts/14/gallery/F0CKQASL5GRATF8-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://blog.rambros3d.com/media/posts/14/gallery/FFIZ4IOL5GRARYB.jpg" data-size="1080x1080"><img loading="lazy" src="https://blog.rambros3d.com/media/posts/14/gallery/FFIZ4IOL5GRARYB-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+</div></div>
+<p><strong>3d printing:</strong></p>
+<ol>
+<li data-list="bullet">PLA filament - around 800g required</li>
+<li data-list="bullet">Flexible filament - for tyres</li>
+</ol>
+<p><strong>Hardware:</strong></p>
+<ol>
+<li data-list="bullet">608 bearing - 6pcs</li>
+<li data-list="bullet">M3 Screws:</li>
+<li class="ql-indent-1" data-list="bullet">M3 8mm - 35pcs</li>
+<li class="ql-indent-1" data-list="bullet">M3 12mm - 22pcs</li>
+<li class="ql-indent-1" data-list="bullet">M3 16mm - 4pcs</li>
+<li class="ql-indent-1" data-list="bullet">M3 20mm - 10pcs</li>
+<li data-list="bullet">Ø2mm rod - 16mm</li>
+<li data-list="bullet">Rubber bands</li>
+</ol>
+<p><strong>Electronics:</strong></p>
+<ol>
+<li data-list="bullet">Generic 2212 BLDC motor</li>
+<li data-list="bullet">ESC (Blheli ESC recommended)</li>
+<li data-list="bullet">9g Servo</li>
+<li data-list="bullet">2-3S Lithium Battery</li>
+<li data-list="bullet">RC Transmitter and Receiver</li>
+</ol>
+<p>The total cost was <strong>~$40</strong> (excluding transmitter and receiver), The cost may vary depending on your location.</p>
+<p><strong>Required Tools:</strong></p>
+<ol>
+<li data-list="bullet">Screw driver</li>
+<li data-list="bullet">Cutting Pliers</li>
+<li data-list="bullet">Ruler</li>
+<li data-list="bullet">Glue Gun</li>
+<li data-list="bullet">Hobby knife</li>
+<li data-list="bullet">Soldering Iron</li>
+</ol>
+<h1 class="step-title align-center">1: A Look Into the Design</h1>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://blog.rambros3d.com/media/posts/14/gallery/FD6B6YPL5FBTGKP.gif" data-size="800x500"><img loading="lazy" src="https://blog.rambros3d.com/media/posts/14/gallery/FD6B6YPL5FBTGKP.gif" alt=""></a></figure>
+<figure class="gallery__item"><a href="https://blog.rambros3d.com/media/posts/14/gallery/FIZO8F1L5FBTGOB.gif" data-size="600x375"><img loading="lazy" src="https://blog.rambros3d.com/media/posts/14/gallery/FIZO8F1L5FBTGOB.gif" alt=""></a></figure>
+<figure class="gallery__item"><a href="https://blog.rambros3d.com/media/posts/14/gallery/F01D1W6L5FBTGME.gif" data-size="800x500"><img loading="lazy" src="https://blog.rambros3d.com/media/posts/14/gallery/F01D1W6L5FBTGME.gif" alt=""></a></figure>
+<figure class="gallery__item"><a href="https://blog.rambros3d.com/media/posts/14/gallery/FK5YL2LL5FBTGNS.gif" data-size="600x375"><img loading="lazy" src="https://blog.rambros3d.com/media/posts/14/gallery/FK5YL2LL5FBTGNS.gif" alt=""></a></figure>
+<figure class="gallery__item"><a href="https://blog.rambros3d.com/media/posts/14/gallery/F54ZIL9L5FBTGSK.jpg" data-size="1600x1000"><img loading="lazy" src="https://blog.rambros3d.com/media/posts/14/gallery/F54ZIL9L5FBTGSK-thumbnail.jpg" alt="" width="768" height="480"></a></figure>
+</div></div>
+<p>I have used maximum 3D printed parts and common hardware like <strong>608 skateboard bearings</strong>. Thus it should be easy for anyone to source them.</p>
+<p>The motor used here is a <strong>generic A2212 BLDC motor</strong>, this has enough power to reach good speeds without any heating issues.</p>
+<p>The power from the motor is distributed to the rear wheels with an <strong>open differential</strong>.</p>
+<p>The wishbone suspension uses common rubber bands, its works well.</p>
+<p>A maintenance door is added to the underside of the car to allow easy access of the electronics and battery.</p>
+<p>Likewise I have managed to use the least number of parts to simplify the assembly process without much trade-off in features.</p>
+<p>Model is<strong> 1/12 scale;</strong></p>
+<ul>
+<li>length: 396mm</li>
+<li>width: 164mm</li>
+<li>height: 71mm</li>
+</ul>
+<p>This project is designed in <strong>Fusion 360</strong>, all the source CAD files are provided here.</p>
+<h1 class="step-title align-center">2: 3D Printing the Parts</h1>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://blog.rambros3d.com/media/posts/14/gallery/FWOGIU3L5S6TGX2.png" data-size="1045x1045"><img loading="lazy" src="https://blog.rambros3d.com/media/posts/14/gallery/FWOGIU3L5S6TGX2-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://blog.rambros3d.com/media/posts/14/gallery/F58G98YL5I6Q772.gif" data-size="800x500"><img loading="lazy" src="https://blog.rambros3d.com/media/posts/14/gallery/F58G98YL5I6Q772.gif" alt=""></a></figure>
+<figure class="gallery__item"><a href="https://blog.rambros3d.com/media/posts/14/gallery/FS3CGZ3L5I6QA7H.gif" data-size="800x500"><img loading="lazy" src="https://blog.rambros3d.com/media/posts/14/gallery/FS3CGZ3L5I6QA7H.gif" alt=""></a></figure>
+<figure class="gallery__item"><a href="https://blog.rambros3d.com/media/posts/14/gallery/FU2W2MZL5I6Q9YB.gif" data-size="800x500"><img loading="lazy" src="https://blog.rambros3d.com/media/posts/14/gallery/FU2W2MZL5I6Q9YB.gif" alt=""></a></figure>
+<figure class="gallery__item"><a href="https://blog.rambros3d.com/media/posts/14/gallery/F19GM64L5GRATSG.jpg" data-size="2511x1511"><img loading="lazy" src="https://blog.rambros3d.com/media/posts/14/gallery/F19GM64L5GRATSG-thumbnail.jpg" alt="" width="768" height="462"></a></figure>
+</div></div>
+<p>The parts can be printed with any 200mm size printer. I recommend Cura Slicer since it is perfect for small parts and supports are much better. It is recommended to use rafts for small parts like gears.</p>
+<p>PLA is recommended for all the parts. I have used Orange and Grey for a nice Dual colour look.</p>
+<p>The tyres need to be printed with a flexible material like TPU.</p>
+<p>Some parts are intricate and require a well calibrated printer to work well. So please start by printing the test print, this can help to check if your printer/ print settings are good.</p>
+<p><a href="https://www.printables.com/model/240045-dragon-r1-open-source-rc-car"  class="extlink extlink-icon-1"  rel="nofollow noopener noreferrer">Download STLs from Printables</a></p>
+<h1 class="step-title align-center">3: Lets Build It</h1>
+<div class="post__iframe"><iframe loading="lazy" width="731" height="412" style="width: 731px; height: 412px;" src="https://www.youtube-nocookie.com/embed/FiOJ_alnoYA" title="Dragon Racer1 RC car | Easy to assemble DIY | Open Differential" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
+<p>The assembly process is divided into 3 main parts:</p>
+<ol>
+<li><strong>Rear chassis</strong></li>
+<li class="ql-indent-1">Rear axle</li>
+<li class="ql-indent-1">Differential</li>
+<li class="ql-indent-1">Rear Suspension</li>
+<li><strong>Front chassis</strong></li>
+<li class="ql-indent-1">Steering mechanism</li>
+<li class="ql-indent-1">Front suspension</li>
+<li><strong>Body assembly</strong></li>
+<li class="ql-indent-1">Base chassis</li>
+<li class="ql-indent-1">Body</li>
+</ol>
+<p>Finally connect the electronics, check the servo and motor direction. You're good to go</p>
+<h1 class="step-title align-center">4: Race!!!</h1>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://blog.rambros3d.com/media/posts/14/gallery/F88XPJXL5JM555E.gif" data-size="800x500"><img loading="lazy" src="https://blog.rambros3d.com/media/posts/14/gallery/F88XPJXL5JM555E.gif" alt=""></a></figure>
+<figure class="gallery__item"><a href="https://blog.rambros3d.com/media/posts/14/gallery/FBKJ121L5MH637Q-2.gif" data-size="800x500"><img loading="lazy" src="https://blog.rambros3d.com/media/posts/14/gallery/FBKJ121L5MH637Q-2.gif" alt=""></a></figure>
+<figure class="gallery__item"><a href="https://blog.rambros3d.com/media/posts/14/gallery/FTMHV8NL52GUA0S-2.jpg" data-size="4032x3024"><img loading="lazy" src="https://blog.rambros3d.com/media/posts/14/gallery/FTMHV8NL52GUA0S-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://blog.rambros3d.com/media/posts/14/gallery/F7ODNM2L52GUA0X.jpg" data-size="4032x3024"><img loading="lazy" src="https://blog.rambros3d.com/media/posts/14/gallery/F7ODNM2L52GUA0X-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+</div></div>
+<p>The performance is impressive for a 3D printed RC car. The car runs effortlessly on flat surfaces like Asphalt, Parking lots, etc. Drifting is also possible on smooth surfaces.</p>
+<p>If you like this Go ahead and build one!</p>
+<p>Print! Build! Race!</p>
+<p>What do you like about this design? Share your experience with us!</p>
+<p>Join our community at <a href="https://discord.gg/3CKbCmZ72G"  class="extlink extlink-icon-1"  rel="nofollow noopener noreferrer">Discord</a></p>
+<div class="mediaset">
+<div class="videoset-wrapper">
+<div class="videoset">
+<div class="videoset-cell">
+<div class="videoset-item"> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="mediaset">
+<div class="photoset-wrapper">
+<div class="photoset">
+<div class="photoset-row items-3 ">
+<div class="photoset-item photoset-cell" data-imagenotes="[]"><em>Originally published on <a href="https://www.instructables.com/3D-Printed-RC-Car-Open-Source/" target="_blank"  class="extlink extlink-icon-1"  rel="noopener noreferrer">instructables.com</a></em></div>
 </div>
 </div>
 </div>
