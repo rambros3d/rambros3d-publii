@@ -3,7 +3,7 @@
     <title>RamBros Blog</title>
     <link href="https://blog.rambros3d.com/feed.xml" rel="self" />
     <link href="https://blog.rambros3d.com" />
-    <updated>2025-04-28T20:03:08+05:30</updated>
+    <updated>2025-04-29T13:25:55+05:30</updated>
     <author>
         <name>Shreeram</name>
     </author>
@@ -66,7 +66,7 @@
 </ul>
 <h2 style="text-align: justify;"><span style="font-size: 18pt;">3) Start with Hand-Solderable parts</span></h2>
 <p><img loading="lazy" src="https://image.easyeda.com/oshwhub/pullImage/f46fcf2ce6554036b999d2b7b882e84b.jpg" alt="" width="1200" height="400" data-is-external-image="true"></p>
-<p><span style="font-size: 12pt; color: #7e8c8d;">image source: <a href="https://core-emt.com/smd-size-chart"  class="extlink extlink-icon-1"  >https://core-emt.com/smd-size-chart</a></span></p>
+<p><span style="font-size: 12pt;">image source: <a href="https://core-emt.com/smd-size-chart"  class="extlink extlink-icon-1"  >https://core-emt.com/smd-size-chart</a></span></p>
 <p style="text-align: justify;"><span style="font-size: 14pt;">When starting with SMD components, choose larger, hand-solderable sizes for <strong>easier rework</strong>. Avoid packages smaller than <strong>0603</strong> or those with hidden leads like <strong>QFNs</strong> and <strong>BGAs</strong>, as these are difficult to rework manually. Once you gain experience, you can move to smaller packages. While smaller components are often slightly cheaper, the difference is negligible for small quantities.</span></p>
 <p style="text-align: justify;"><span style="font-size: 14pt;">In general, <strong>prefer SMD components over through-hole</strong>. They are typically less expensive, especially for PCB assembly service.</span></p>
 <h2 style="text-align: justify;"><span style="font-size: 18pt;">4) The Cost-Benefit of PCB Assembly</span></h2>
@@ -143,7 +143,7 @@
 <div>
 <div id="model-response-message-contentr_73dc89ccc33caea7" dir="ltr">
 <p>All the projects on OSHWLab are designed using EasyEDA, so we'll look at a simpler approach today.</p>
-<div><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.60181em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);">Step 1:</span></div>
+<div><span style="font-family: var(--font-base); font-size: 1.60181em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);">Step 1:</span></div>
 </div>
 </div>
 </div>
