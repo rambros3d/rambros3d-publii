@@ -3,7 +3,7 @@
     <title>RamBros Blog</title>
     <link href="https://blog.rambros3d.com/feed.xml" rel="self" />
     <link href="https://blog.rambros3d.com" />
-    <updated>2025-04-29T20:43:58+05:30</updated>
+    <updated>2025-04-30T14:52:36+05:30</updated>
     <author>
         <name>Shreeram</name>
     </author>
@@ -17,6 +17,8 @@
         <link href="https://blog.rambros3d.com/generate-pcb-coils-in-easyeda-pro/"/>
         <id>https://blog.rambros3d.com/generate-pcb-coils-in-easyeda-pro/</id>
         <media:content url="https://blog.rambros3d.com/media/posts/16/PCB-Coils-easyeda.png" medium="image" />
+            <category term="pcb"/>
+            <category term="electronics"/>
 
         <updated>2025-04-29T20:28:52+05:30</updated>
             <summary>
@@ -789,17 +791,20 @@
         </author>
         <link href="https://blog.rambros3d.com/dragon-r1-easy-to-build-3d-printed-rc-car/"/>
         <id>https://blog.rambros3d.com/dragon-r1-easy-to-build-3d-printed-rc-car/</id>
+        <media:content url="https://blog.rambros3d.com/media/posts/14/Dragon-R1-Thumbnail.jpg" medium="image" />
             <category term="scalemodel"/>
             <category term="3dprinting"/>
 
         <updated>2022-07-17T20:02:00+05:30</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://blog.rambros3d.com/media/posts/14/Dragon-R1-Thumbnail.jpg" alt="" />
                     Hey folks, I have been interested in 3D printed RC projects for&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://blog.rambros3d.com/media/posts/14/Dragon-R1-Thumbnail.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="post__iframe"><iframe loading="lazy" width="800" height="450" src="https://www.youtube-nocookie.com/embed/FiOJ_alnoYA" title="Dragon Racer1 RC car | Easy to assemble DIY | Open Differential" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
 <figure class="gallery__item"><a href="https://blog.rambros3d.com/media/posts/14/gallery/FAWPPBGL5JM5SZC.gif" data-size="600x338"><img loading="lazy" src="https://blog.rambros3d.com/media/posts/14/gallery/FAWPPBGL5JM5SZC.gif" alt=""></a></figure>
