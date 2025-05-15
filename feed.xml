@@ -3,7 +3,7 @@
     <title>RamBros Blog</title>
     <link href="https://blog.rambros3d.com/feed.xml" rel="self" />
     <link href="https://blog.rambros3d.com" />
-    <updated>2025-05-15T12:55:46+05:30</updated>
+    <updated>2025-05-15T15:42:12+05:30</updated>
     <author>
         <name>Shreeram</name>
     </author>
@@ -22,7 +22,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://blog.rambros3d.com/media/posts/18/instructable-thumb.jpg" alt="" />
-                    I bought this little toy tank a few years ago. It was&hellip;
+                    I bought this little toy tank a couple of years ago. It&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -32,7 +32,7 @@
 <figure class="gallery__item"><a href="https://blog.rambros3d.com/media/posts/18/gallery/intro-1.jpg" data-size="3225x2416"><img loading="lazy" src="https://blog.rambros3d.com/media/posts/18/gallery/intro-1-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
 <figure class="gallery__item"><a href="https://blog.rambros3d.com/media/posts/18/gallery/supply-board-1.jpg" data-size="2000x1500"><img loading="lazy" src="https://blog.rambros3d.com/media/posts/18/gallery/supply-board-1-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
 </div></div>
-<p>I bought this little toy tank a few years ago. It was fun to play with for a bit. But after some time, it felt like it could do more. It didn't have proportional speed control, and there were no cool shooting lights.<br>I thought about upgrading it, but I was busy with other things. Recently, I designed a control board called <strong><a href="https://oshwlab.com/shreeramlive/mikro-rc" target="_blank"  class="extlink extlink-icon-1"  rel="noopener noreferrer">Mikro</a></strong>. This tank project seemed like a good way to try out the features of this board. So, let's upgrade this toy tank!</p>
+<p>I bought this little toy tank a couple of years ago. It was fun to play with for a bit. But after some time, it felt like it could do more. It didn't have proportional speed control, and there were no cool shooting lights.<br>I thought about upgrading it, but I was busy with other things. Recently, I designed a control board called <strong><a href="https://oshwlab.com/shreeramlive/mikro-rc" target="_blank"  class="extlink extlink-icon-1"  rel="noopener noreferrer">Mikro</a></strong>. This tank project seemed like a good way to try out the features of this board. So, let's upgrade this toy tank!</p>
 <p><strong>List of components:</strong></p>
 <ul>
 <li>Mini RC Tank</li>
@@ -66,9 +66,9 @@
 <p>Rest of the connections, the motors and the turret led connections are the similar to the factory board.</p>
 <p class="align-center"><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.80203em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing); text-align: center;">3. Reassembly</span></p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://blog.rambros3d.com/media/posts/18/gallery/tank-with-leds-front-annotated.jpg" data-size="2000x1500"><img loading="lazy" src="https://blog.rambros3d.com/media/posts/18/gallery/tank-with-leds-front-annotated-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
-<figure class="gallery__item"><a href="https://blog.rambros3d.com/media/posts/18/gallery/reassembly-button-1.jpg" data-size="2000x1500"><img loading="lazy" src="https://blog.rambros3d.com/media/posts/18/gallery/reassembly-button-1-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
 <figure class="gallery__item"><a href="https://blog.rambros3d.com/media/posts/18/gallery/rewiring-button-3-2.jpg" data-size="2000x1500"><img loading="lazy" src="https://blog.rambros3d.com/media/posts/18/gallery/rewiring-button-3-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://blog.rambros3d.com/media/posts/18/gallery/reassembly-button-1.jpg" data-size="2000x1500"><img loading="lazy" src="https://blog.rambros3d.com/media/posts/18/gallery/reassembly-button-1-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://blog.rambros3d.com/media/posts/18/gallery/tank-with-leds-front-annotated.jpg" data-size="2000x1500"><img loading="lazy" src="https://blog.rambros3d.com/media/posts/18/gallery/tank-with-leds-front-annotated-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
 </div></div>
 <p>Finally we will cram everything and screw it together. It is more congested than the factory setup since we are using a bigger battery.</p>
 <p>The magnetic connector is accessible on the front side of the tank. Also the antenna is routed inside the turret and points outside.</p>
